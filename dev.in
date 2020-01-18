@@ -1,5 +1,8 @@
 -r requirements.in
 
+# See https://github.com/jazzband/pip-tools/issues/721
+poetry
+
 ipdb
 ipython
 isort

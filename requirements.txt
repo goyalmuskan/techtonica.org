@@ -17,11 +17,11 @@ markupsafe==1.1.1         # via jinja2
 pendulum==2.0.5
 pip-tools==4.3.0
 python-dateutil==2.8.1    # via pendulum
-python-dotenv==0.10.3
+python-dotenv==0.10.4
 python-http-client==3.2.1  # via sendgrid
 pytzdata==2019.3          # via pendulum
 requests==2.22.0
 sendgrid==6.1.0
-six==1.13.0               # via pip-tools, python-dateutil
+six==1.14.0               # via pip-tools, python-dateutil
 urllib3==1.25.7           # via requests
 werkzeug==0.16.0          # via flask
